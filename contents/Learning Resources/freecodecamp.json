@@ -1,0 +1,6 @@
+{
+  "name": "freeCodeCamp",
+  "description": "A free non-profit website which teaches you many modern technologies, all for free.",
+  "platforms": ["web"],
+  "url": "https://freecodecamp.org"
+}
