@@ -1,0 +1,5 @@
+{
+  "name": "Visual Studio Code",
+  "description": "A code editor redefined and optimized for building and debugging modern web and cloud applications.",
+  "platforms": ["macos", "linux", "windows"]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Discord",
+  "description": "Discord is a VoIP, instant messaging and digital distribution platform designed for creating communities.",
+  "platforms": ["macos", "linux", "windows"]
+}
