@@ -2,7 +2,7 @@
 
 The start of something big.
 
-EzTools is a collection of tools and resources for all developers, whether you work at FAANG or developers just starting out. This collection provides the best list of technologies that developers should use and know about. **Example: Under Website Hosting, we have Vercel, Netlify and a bunch more of great hosts.**
+EzTools is a collection of tools and resources for all developers, whether you work at FAANG or developers just starting out. This collection provides the best list of technologies that developers should use and know about. **Example: Under Website Hosting, we have Vercel, Netlify and some more great hosts.**
 
 # Contributing
 
