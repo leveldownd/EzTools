@@ -1,0 +1,6 @@
+{
+  "name": "Website Name (Mostly website title)",
+  "description": "Website description, could be website metadata (non-biased)/Wikipedia descriptions of the site. Please be non-biased.",
+  "platforms": ["macos", "windows", "linux", "web"],
+  "url": "Insert website link"
+}
