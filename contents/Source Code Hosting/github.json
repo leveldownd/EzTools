@@ -1,0 +1,6 @@
+{
+  "name": "GitHub",
+  "description": "GitHub is a host for source code with Git for over 56 million developers. Millions of developers and companies build, ship, and maintain their software on GitHub - the largest and most advanced development platform in the world.",
+  "platforms": ["web"],
+  "url": "https://github.com"
+}
