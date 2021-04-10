@@ -1,0 +1,6 @@
+{
+  "name": "Vercel",
+  "description": "​Vercel is a deployment and collaboration platform for frontend developers supporting from Next.js to plain HTML. Featuring auto-deploy from Git and their own CLI, ​Vercel puts the frontend developer first, giving them comprehensive tools to build high-performance websites and applications.",
+  "platforms": ["web"],
+  "url": "https://vercel.com"
+}
