@@ -1,6 +1,6 @@
 {
   "name": "React",
-  "description": "A JavaScript library for building user interfaces",
+  "description": "A JavaScript library for building single page user interfaces.",
   "platforms": ["web"],
   "url": "https://reactjs.org/"
 }

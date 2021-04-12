@@ -1,6 +1,6 @@
 {
   "name": "Sublime Text",
-  "description": "Sublime Text is a shareware cross-platform source code editor with a Python application programming interface.",
+  "description": "Sublime Text is a cross-platform source code editor with a Python application programming interface.",
   "platforms": ["macos", "windows"],
   "url": "https://sublimetext.com"
 }

@@ -1,6 +1,6 @@
 {
   "name": "Atom",
-  "description": "A hackable text editor for the 21st Century",
-  "platforms": ["macos", "windows"],
+  "description": "A hackable text editor for the 21st century from GitHub.",
+  "platforms": ["macos", "windows", "linux"],
   "url": "https://atom.io/"
 }

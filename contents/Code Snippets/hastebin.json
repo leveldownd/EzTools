@@ -1,6 +1,0 @@
-{
-  "name": "Hastebin",
-  "description": "A web-based service for storing and sharing text and code snippets",
-  "platforms": ["web"],
-  "url": "https://hastebin.com/"
-}

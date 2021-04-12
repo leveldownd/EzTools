@@ -1,6 +1,6 @@
 {
   "name": "Surge",
-  "description": "Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line",
+  "description": "Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.",
   "platforms": ["web"],
   "url": "https://surge.sh/"
 }

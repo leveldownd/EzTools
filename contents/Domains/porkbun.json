@@ -1,0 +1,6 @@
+{
+  "name": "Porkbun",
+  "description": "Porkbun is an ICANN accredited domain name registrar.",
+  "platforms": ["web"],
+  "url": "https://porkbun.com/"
+}

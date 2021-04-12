@@ -1,6 +1,6 @@
 {
-  "name": "Bitbucket",
-  "description": "Bitbucket is more than just Git code management. Bitbucket gives teams one place to plan projects, collaborate on code, test, and deploy.",
+  "name": "BitBucket",
+  "description": "BitBucket is more than just Git code management. Bitbucket gives teams one place to plan projects, collaborate on code, test, and deploy.",
   "platforms": ["web"],
   "url": "https://bitbucket.org/"
 }

@@ -1,0 +1,6 @@
+{
+  "name": "Pastebin",
+  "description": "Ppastebin is a web application that allows users to upload and share text online. The most common use is for sharing source code or configuration information.",
+  "platforms": ["web"],
+  "url": "https://pastebin.com"
+}

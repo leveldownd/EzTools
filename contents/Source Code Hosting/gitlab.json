@@ -1,6 +1,6 @@
 {
-  "name": "Gitlab",
-  "description": "Iterate faster, innovate together: Our open DevOps platform is a single application for unparalleled collaboration, visibility, and development velocity.",
+  "name": "GitLab",
+  "description": "GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features.",
   "platforms": ["web"],
   "url": "https://gitlab.com"
 }
