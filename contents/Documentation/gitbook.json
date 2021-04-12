@@ -1,0 +1,6 @@
+{
+  "name": "Gitbook",
+  "description": "GitBook helps you publish beautiful docs for your users and centralize your teams' knowledge for advanced collaboration.",
+  "platforms": ["web"],
+  "url": "https://gitbook.com/"
+}
