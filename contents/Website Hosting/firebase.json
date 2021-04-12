@@ -1,0 +1,6 @@
+{
+  "name": "Firebase",
+  "description": "Firebase helps you build and run successful apps",
+  "platforms": ["web"],
+  "url": "https://firebase.google.com/"
+}
