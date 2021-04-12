@@ -1,0 +1,6 @@
+{
+  "name": "Porkbun",
+  "description": "Porkbun is an amazingly awesome ICANN accredited domain name registrar based out of Portland, OR.",
+  "platforms": ["web"],
+  "url": "https://porkbun.com/"
+}
