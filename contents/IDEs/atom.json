@@ -1,0 +1,6 @@
+{
+  "name": "Atom",
+  "description": "A hackable text editor for the 21st Century",
+  "platforms": ["macos", "windows"],
+  "url": "https://atom.io/"
+}
