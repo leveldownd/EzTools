@@ -1,0 +1,6 @@
+{
+  "name": "Svelte",
+  "description": "Svelte is a free and open-source front end compiler.",
+  "platforms": ["web"],
+  "url": "https://svelte.dev/"
+}
