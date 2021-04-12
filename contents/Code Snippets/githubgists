@@ -1,6 +1,0 @@
-{
-  "name": "Github Gists",
-  "description: "Instantly share code, notes, and snippets.",
-  "platforms": ["web"],
-  "url": "https://gist.github.com/"
-}
