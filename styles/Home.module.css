@@ -53,13 +53,18 @@
 }
 
 .title,
-.description {
+.description,
+.smallerDesc {
   text-align: center;
 }
 
 .description {
   line-height: 1.5;
   font-size: 1.5rem;
+}
+
+.smallerDesc {
+  font-size: 2.5rem;
 }
 
 .code {
