@@ -1,6 +1,6 @@
 {
   "name": "Pastee",
-  "description: "A free, easy to use Pastebin.",
+  "description": "A free, easy to use Pastebin.",
   "platforms": ["web"],
   "url": "https://paste.ee/"
 }
