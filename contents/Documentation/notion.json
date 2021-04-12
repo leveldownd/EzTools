@@ -1,0 +1,6 @@
+{
+  "name": "Notion",
+  "description": "Notion is an application that provides components such as notes, databases, kanban boards, wikis, calendars and reminders.",
+  "platforms": ["web"],
+  "url": "https://www.notion.so/"
+}
