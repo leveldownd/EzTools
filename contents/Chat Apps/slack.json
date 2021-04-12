@@ -1,0 +1,6 @@
+{
+  "name": "Slack",
+  "description": "Slack is a proprietary business communication platform developed by American software company Slack Technologies.",
+  "platforms": ["web"],
+  "url": "https://slack.com/"
+}
