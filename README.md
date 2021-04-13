@@ -5,6 +5,10 @@
 <p align="center">
   <strong>The start of something big.</strong>
   </p>
+
+<a href="https://discord.gg/pR4QhpMNeY"><p align="center">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</p></a>
   
 ___
 
