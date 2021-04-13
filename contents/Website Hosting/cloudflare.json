@@ -1,0 +1,6 @@
+{
+  "name": "Cloudflare Pages",
+  "description": "Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.",
+  "platforms": ["web"],
+  "url": "https://pages.cloudflare.com/"
+}
