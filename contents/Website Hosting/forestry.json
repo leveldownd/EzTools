@@ -1,0 +1,6 @@
+{
+  "name": "Forestry",
+  "description": "Give your editors the power of Git. Create, edit, and instant preview Markdown-based sites.",
+  "platforms": ["web"],
+  "url": "https://forestry.io/"
+}
