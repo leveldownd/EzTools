@@ -2,7 +2,16 @@
 <img height=250 width="500" src="https://github.com/leveldownd/EzTools/blob/main/public/eztools.png?raw=true"/>
 </p></a>
 
-The start of something big.
+<p align="center">
+  <strong>The start of something big.</strong>
+  </p>
+
+<a href="https://discord.gg/pR4QhpMNeY"><p align="center">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</p></a>
+  
+___
+
 
 EzTools is a collection of tools and resources for all developers, whether you work at FAANG or developers just starting out. This collection provides the best list of technologies that developers should use and know about. **Example: Under Website Hosting, we have Vercel, Netlify and some more great hosts.**
 
