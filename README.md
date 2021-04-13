@@ -4,9 +4,8 @@
 
 <p align="center">
   <strong>The start of something big.</strong>
-  
   ![Discord](https://img.shields.io/discord/831161618468700260)
-</p>
+  </p>
 ___
 
 
