@@ -2,5 +2,5 @@
   "name": "Netlify",
   "description": "An intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps supporting from Next.js to plain HTML.",
   "platforms": ["web"],
-  "url": "https://vercel.com"
+  "url": "https://netlify.com/"
 }
