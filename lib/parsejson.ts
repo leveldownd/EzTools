@@ -2,35 +2,30 @@ import * as fs from "fs";
 import * as path from "path";
 import JSONData from "../types/json";
 
-const contentDir: string = path.join(process.cwd(), "contents");
-
-export default function sortedData() {
-  let fl: any = [];
-
-  const fsr = fs.readdirSync(contentDir);
-
-  fsr.forEach((category) => {
-    let unsterilized = fs.readdirSync(path.resolve(contentDir, category));
-
-    unsterilized.forEach(async (file) => {
-      let contents = await fs.readFileSync(
-        contentDir + "/" + category + "/" + file,
-        "utf8"
-      );
-      let parse: JSONData = JSON.parse(contents);
-      console.log(parse.name);
-    });
-
-    let resolved = [];
-
-    let element;
-
-    for (element of unsterilized) resolved.push(element.split(".")[0]);
-
-    fl.push({
-      [category]: resolved,
-    });
-  });
+function c(contents: any) {
+  let res = fs.readFileSync(contents, "utf8");
+  let processed: JSONData = JSON.parse(res);
+  return processed;
 }
 
-sortedData();
+const contentDir: string = path.join(process.cwd(), "contents");
+
+let oa: any = {};
+
+const fsr = fs.readdirSync(contentDir);
+for (let category of fsr) {
+  const readDir = fs.readdirSync(path.resolve(contentDir, category));
+  oa[category] = {};
+
+  for (let file of readDir) {
+    let parse: JSONData = c(contentDir + "/" + category + "/" + file);
+    oa[category][parse.name] = {
+      description: parse.description,
+      platforms: parse.platforms,
+      url: parse.url,
+      id: file.split(".")[0],
+    };
+  }
+}
+
+export default oa;

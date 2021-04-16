@@ -3,4 +3,5 @@ export default interface JSONData {
   description: string;
   platforms: string[];
   url: string;
+  id: string;
 }
