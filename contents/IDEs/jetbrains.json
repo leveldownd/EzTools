@@ -1,5 +1,5 @@
 {
-  "name": "Jetbrains",
+  "name": "JetBrains",
   "description": "Jetbrains provides amazing code editor apps for certian languages, there are many to pick from and each one is built with peace of mind..",
   "platforms": ["macos", "linux", "windows"],
   "url": "https://jetbrains.com/"
