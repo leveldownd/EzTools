@@ -10,16 +10,16 @@ function c(contents: any) {
 
 const contentDir: string = path.join(process.cwd(), "contents");
 
-let oa: any = {};
+let data: any = {};
 
 const fsr = fs.readdirSync(contentDir);
 for (let category of fsr) {
   const readDir = fs.readdirSync(path.resolve(contentDir, category));
-  oa[category] = {};
+  data[category] = {};
 
   for (let file of readDir) {
     let parse: JSONData = c(contentDir + "/" + category + "/" + file);
-    oa[category][parse.name] = {
+    data[category][parse.name] = {
       description: parse.description,
       platforms: parse.platforms,
       url: parse.url,
@@ -28,4 +28,4 @@ for (let category of fsr) {
   }
 }
 
-export default oa;
+export default data;
