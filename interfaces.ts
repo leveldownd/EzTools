@@ -5,5 +5,3 @@ export interface JSONData {
   url: string;
   id: string;
 }
-
-export default null;

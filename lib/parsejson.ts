@@ -1,6 +1,6 @@
 import * as fs from "fs";
 import * as path from "path";
-import { JSONData } from "../types/interfaces";
+import { JSONData } from "../interfaces";
 
 function c(contents: any) {
   let res = fs.readFileSync(contents, "utf8");
